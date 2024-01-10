@@ -3,13 +3,9 @@
 
 <span>
 - 🔭 I’m currently working on ModernGuard
-</span>
-
-<span>
+  <br />
 - 🌱 I’m currently learning everything
-</span>
-
-<span>
+  <br />
 - 📫 How to reach me: discord
 </span>
 
