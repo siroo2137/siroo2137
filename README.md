@@ -1,9 +1,11 @@
 <img height="40" align="left" src="https://skillicons.dev/icons?i=java,python,php,idea&theme=dark"/>
 <br />
 
+<span>
 - 🔭 I’m currently working on ModernGuard
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: discord
+</span>
 
 <br>
 <p align="center">
