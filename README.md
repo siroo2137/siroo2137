@@ -1,5 +1,5 @@
 <img height="40" align="left" src="https://skillicons.dev/icons?i=java,python,php,idea&theme=dark"/>
-<br />
+<br>
 
 <span>
 - 🔭 I’m currently working on ModernGuard
