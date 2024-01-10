@@ -1,3 +1,5 @@
+<img height="40" align="left" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
+
 - 🔭 I’m currently working on ModernGuard
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: discord
