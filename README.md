@@ -1,7 +1,7 @@
 <img height="40" align="left" src="https://skillicons.dev/icons?i=java,python,php,idea&theme=dark"/>
 <br />
 
-<span style="padding-top: 50px;">
+<span>
 - 🔭 I’m currently working on ModernGuard
   <br />
 - 🌱 I’m currently learning everything
