@@ -1,4 +1,5 @@
-<img height="40" align="left" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=java,python,php,idea&theme=dark"/>
+<br />
 
 - 🔭 I’m currently working on ModernGuard
 - 🌱 I’m currently learning everything
