@@ -1,6 +1,5 @@
 <div align="center">
-    <h1 align="center">Hi 👋, I'm siroo</h1>
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=siroo2137&label=Profile%20views&color=b053f5&style=flat" alt="siroo2137" /> </p>
+    <h1 align="center">Hi 👋, I'm siroo <p align="right"> <img src="https://komarev.com/ghpvc/?username=siroo2137&label=Profile%20views&color=b053f5&style=flat" alt="siroo2137" /> </p></h1>
 </div>
 
 - 🔭 I’m currently working on [Cataclysm](https://cataclysm.su) & [Luminate](https://luminateos.com)
