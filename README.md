@@ -26,6 +26,5 @@
 
 <div align="center">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=siroo2137&show_icons=true&locale=en&layout=compact&theme=omni&border_color=FF000000" alt="siroo2137" />
-        
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=siroo2137&show_icons=true&locale=en&theme=omni&border_color=FF000000" alt="siroo2137" />
 </div>
