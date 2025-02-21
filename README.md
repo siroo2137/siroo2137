@@ -1,5 +1,5 @@
 <div align="center">
-    <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
         <h1>Hi 👋, I'm siroo</h1>
         <img src="https://komarev.com/ghpvc/?username=siroo2137&label=Profile%20views&color=b053f5&style=flat" alt="siroo2137" />
     </div>
