@@ -5,6 +5,8 @@
     </div>
 </div>
 
+<div align="center"><p>‮ </p></div> <!-- gnicaps -->
+
 - 🔭 I’m currently working on [Cataclysm](https://cataclysm.su) & [Luminate](https://luminateos.com)
 
 - 🌱 I’m currently learning **everything**
